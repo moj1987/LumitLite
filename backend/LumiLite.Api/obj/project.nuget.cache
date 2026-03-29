@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLpNRE7WTtQ=",
+  "success": true,
+  "projectFilePath": "/Users/mojsmac/Repos/Interview prep/D2L-SrSoftwareEng/LumiLite/backend/LumiLite.Api/LumiLite.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/mojsmac/.nuget/packages/microsoft.aspnetcore.openapi/10.0.5/microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "/Users/mojsmac/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
