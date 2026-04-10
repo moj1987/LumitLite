@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LumiLite.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fc400a1a2d78e78c662fc30bc38011547fd15e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db1b3b36f2b8581baf2ef735ea6f02e11fe12781")]
 [assembly: System.Reflection.AssemblyProductAttribute("LumiLite.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LumiLite.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
